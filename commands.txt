@@ -2,9 +2,10 @@
 
 venv\Scripts\activate
 
-
-
+django(backend)
 docker-compose up
+
+browser: http://localhost:8000/
 
 docker-compose down
 

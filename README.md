@@ -1,2 +1,2 @@
 # e-eleksyon
-Online Election Web App. A fun project using Docker, DRF and Reactjs
+Online Election Web App. A fun project using Docker, DRF and Vue js

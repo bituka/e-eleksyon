@@ -11,7 +11,8 @@ export default {
 <style scoped>
 .pic {
     float:right;
-    width: 7%;
+    width: 8%;
     margin-right: 10%;
+    margin-top: 2%;
 }
 </style>

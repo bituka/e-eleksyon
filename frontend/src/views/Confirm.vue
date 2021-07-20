@@ -9,6 +9,7 @@
 <style scoped>
 .about {
   margin-top: 10%;
+  text-align: center;
 }
 .hooray {
   width: 25%;

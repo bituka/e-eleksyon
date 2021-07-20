@@ -54,14 +54,6 @@
   <li><img src="../assets/Portrait_Placeholder.png" alt=""><p class="name">Jasmine</p></li>
   </ul>
 </div>
-<div>
-  <p class="head">Running for Vice President</p>
-  <!-- the list elements will be rendered by a for loop -->
-  <ul class="cand">
-  <li><img src="../assets/Portrait_Placeholder.png" alt=""><p class="name">Gerald</p></li>
-  <li><img src="../assets/Portrait_Placeholder.png" alt=""><p class="name">Jasmine</p></li>
-  </ul>
-</div>
 
 </div>
 </template>

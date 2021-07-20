@@ -1,7 +1,7 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 import Main from '../views/Main.vue'
 import Dashboard from '../views/Dashboard.vue'
-
+import Lin from "../views/LoginUI.vue";
 
 const routes = [
   {
@@ -21,6 +21,11 @@ const routes = [
     path: '/dashboard',
     name: 'Dashboard',
     component: Dashboard
+  },
+  {
+    path: '/login',
+    name: 'Login',
+    component: Lin
   }
 ]
 

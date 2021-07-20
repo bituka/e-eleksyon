@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import Form from "../components/Form.vue";
+import Form from "../components/Create_Form.vue";
 import Pic from "../components/Pic.vue";
 
 export default {

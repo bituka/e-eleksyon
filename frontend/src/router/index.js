@@ -2,6 +2,8 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import Main from '../views/Main.vue'
 import Dashboard from '../views/Dashboard.vue'
 import Lin from "../views/LoginUI.vue";
+import Ballot from "../views/BallotUI.vue";
+
 
 const routes = [
   {
@@ -26,6 +28,11 @@ const routes = [
     path: '/login',
     name: 'Login',
     component: Lin
+  },
+  {
+    path: '/ballot',
+    name: 'Login',
+    component: Ballot
   }
 ]
 
